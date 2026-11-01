@@ -1,1 +1,30 @@
-{"name": "BeyGarage X", "short_name": "BeyGarage X", "start_url": "/beygarage-x/app/", "scope": "/beygarage-x/app/", "display": "standalone", "background_color": "#0A0F2C", "theme_color": "#0A0F2C", "lang": "es", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "BeyGarage X",
+  "short_name": "BeyGarage X",
+  "description": "Colección, decks y estadísticas de combate de Beyblade X.",
+  "start_url": "/beygarage-x/app/",
+  "scope": "/beygarage-x/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0F2C",
+  "theme_color": "#0A0F2C",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/beygarage-x/app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/beygarage-x/app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/beygarage-x/app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
